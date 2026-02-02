@@ -9,3 +9,7 @@ __pycache__/
 .gradio/
 TASK 1/.gradio/
 
+.venv/
+TASK 1/.venv/
+.gradio/
+TASK 1/.gradio/
